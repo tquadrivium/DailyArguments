@@ -66,7 +66,7 @@
   - Chapter 65 Taurek on Numbers don't Count
   - Chapter 66 Parfit's Leveling down Argument against Egalitarianism
   - Chapter 67 Nozick's Wilt Chamberlain Argument
-  - [Chapter 68 Liberal Feminism]((markdown/68.md))
+  - [Chapter 68 Liberal Feminism](markdown/68.md)
   - Chapter 69 Moral Status of Animals from Marginal Cases
   - Chapter 70 The Ethical Vegetarianism Argument 
   - Chapter 71 Thomson and the Famous Violinist
