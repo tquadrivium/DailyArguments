@@ -94,9 +94,9 @@
   - Chapter 93 Eliminative Materialism
   - Chapter 94 Wittgenstein's Private Language Argument
   - Chapter 95 Fodor's Argument for Linguistic Nativism
-    Chapter 96 Fodor and the Impossibility of Learning
-    Chapter 97 Quine on the Indeterminacy of Translation
-    Chapter 98 Davidson's Argument for the Principle of Charity 
-    Chapter 99 Frege's Argument for Platonism 
-    Chapter 100 Mathematical Platonism 
+  - Chapter 96 Fodor and the Impossibility of Learning
+  - Chapter 97 Quine on the Indeterminacy of Translation
+  - Chapter 98 Davidson's Argument for the Principle of Charity 
+  - Chapter 99 Frege's Argument for Platonism 
+  - Chapter 100 Mathematical Platonism 
 
