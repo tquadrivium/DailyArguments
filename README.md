@@ -1,65 +1,172 @@
-# 钥匙书 Key-book
+# 每日哲论 Daily Arguments
 
-周志华、王魏、高尉、张利军等老师所著的《机器学习理论导引》一书（下称《导引》），填补了国内缺少机器学习理论入门著作的遗憾。该书试图以通俗易懂的语言，为有志于学习机器学习理论和研究机器学习理论的读者提供一个入门的导引。《导引》主要涵盖七个部分，分别对应机器学习理论中的七个重要概念或理论工具，即：**可学性、（假设空间）复杂度、泛化界、稳定性、一致性、收敛率、遗憾界**。
-
-《导引》是一本理论性较强的书籍，涉及大量的数学定理和各种证明。尽管撰写团队已尽可能降低了难度，但由于机器学习理论学习本身的特性，该书仍然对读者的数学背景提出了较高的要求。这难免会导致不求甚解的情形，影响学习效果；另一方面，由于篇幅所限，该书写作较为精炼，并非在各个章节都给出示例。读者每每遇到晦涩抽象之处，难免冥思苦索。
-
-基于此两点，我们决定尝试编辑《钥匙书》这一参考笔记，来对《导引》一书作一些浅陋且皮毛的注脚。这既是着眼于那些阅读《导引》时遇到困难的读者，助其更快地走出迷雾；亦是对学习《导引》一书之过程的最好记录。
-
-## 使用说明
-
-- 《钥匙书》的补充性工作，主要包括四个方面：
-
-  （1）**证明补充**：对部分证明的证明思路进行解释，对部分省略的证明过程进行补充。
-
-  （2）**案例补充**：增加解释案例，帮助读者理解。
-
-  （3）**概念补充**：介绍部分文中涉及、但未阐释的概念。
-
-  （4）**参考文献讲解**：对部分重要的参考文献进行介绍。
-
-  此外，由于《导引》一书的第一章节为基础知识补遗，简明易懂，因此《钥匙书》的内容从《导引》的第二章开始。
-
-### 在线阅读（内容实时更新）
-https://datawhalechina.github.io/key-book/
-
-### 最新版PDF获取地址
-https://github.com/datawhalechina/key-book/releases
+###### Edit by [Hao ZHAN](https://github.com/zhanhao93)
 
 
-### 目录
 
-- 第0章 [绪论](https://datawhalechina.github.io/key-book/#/chapter0/chapter0)
-- 第1章 [预备知识](https://datawhalechina.github.io/key-book/#/chapter1/chapter1)
-- 第2章 [可学性](https://datawhalechina.github.io/key-book/#/chapter2/chapter2)
-- 第3章 [复杂度](https://datawhalechina.github.io/key-book/#/chapter3/chapter3)
-- 第4章 [泛化界](https://datawhalechina.github.io/key-book/#/chapter4/chapter4)
-- 第5章 [稳定性](https://datawhalechina.github.io/key-book/#/chapter5/chapter5)
-- 第6章 [一致性](https://datawhalechina.github.io/key-book/#/chapter6/chapter6)
-- 第7章 [收敛率](https://datawhalechina.github.io/key-book/#/chapter7/chapter7)
-- 第8章 [遗憾界](https://datawhalechina.github.io/key-book/#/chapter8/chapter8)
+### 1.关于
 
-### 选用的《机器学习理论导引》版本
+每日哲论是「三艺四术」平台的一个全新的计划。
 
-<center><img src="https://github.com/datawhalechina/key-book/raw/master/res/mlt.jpg" width="300" height= "300"></center>
+我们尝试基于 *Just the Arguments: 100 of the Most Important Arguments in Western Philosophy* 一书的内容，每天翻译书中的一例 *Arguments* 。
 
-> 版次：2020年6月第1版<br>
+为了减少工作量，我们将翻译的内容可能限制在具体推导过程上（即P1到Pn和C1到Cn），而在很多时候忽略关于论证的一些背景知识的介绍。
 
-## 编委会
+### 2.开源
+
+这是一个开源的合作项目，所有的成果（具体的翻译）和项目的代码（主要是GitHub Pages的代码）我们都会开源出来。
+
+我们期盼更多的朋友可以加入进来，与我们共同完成这个项目。项目将会被划分为102份（100个arguments，1个导论和1个总结），每个任务需要1个译者和一个校对人员。
+
+我们会在每一个arguments的页面中，列出译者和校对人员的名字，作为对他们工作的肯定。译者及校对人员亦可撰写一个简单的个人介绍，放在该arguments的页面中。
+
+成果会在GitHub Pages，三艺四术网站，三艺四术微信公众号等平台上发布。
+
+### 4.在线阅读（内容实时更新）
+https://tquadrivium.github.io/DailyArguments/
+
+### 5.目录
+
+Chapter 1 Aquinas' Five Ways (pages 7–17): Timothy J. Pawl
+Chapter 2 The Contingency Cosmological Argument (pages 18–21): Mark T. Nelson
+Chapter 3 The Kalam Argument for the Existence of God (pages 22–24): Harry Lesser
+Chapter 4 The Ontological Argument (pages 25–27): Sara L. Uckelman
+Chapter 5 Pascal's Wager (pages 28–31): Leslie Burkholder
+Chapter 6 James' will to believe Argument (pages 32–34): A. T. Fyfe
+Chapter 7 The Problem of Evil (pages 35–36): Michael Bruce and Steven Barbone
+Chapter 8 The free will Defense to the Problem of Evil (pages 37–39): Grant Sterling
+Chapter 9 St. Anselm on Free Choice and the Power to Sin (pages 40–43): Julia Hermann
+Chapter 10 Hume's Argument against Miracles (pages 44–48): Tommaso Piazza
+Chapter 11 The Euthyphro Dilemma (pages 49–51): David Baggett
+Chapter 12 Nietzsche's Death of God (pages 52–56): Tom Grimwood
+Chapter 13 Ockham's Razor (pages 57–58): Grant Sterling
+Chapter 14 Parmenides' Refutation of Change (pages 59–63): Adrian Bardon
+Chapter 15 McTaggart's Argument against the Reality of Time (pages 64–67): M. Joshua Mozersky
+Chapter 16 Berkeley's Master Argument for Idealism (pages 68–69): John M. DePoe
+Chapter 17 Kant's Refutation of Idealism (pages 70–72): Adrian Bardon
+Chapter 18 The Master Argument of Diodorus Cronus (pages 73–75): Ludger Jansen
+Chapter 19 Lewis' Argument for Possible Worlds (pages 76–78): David Vander Laan
+Chapter 20 A Reductionist Account of Personal Identity (pages 79–85): Fauve Lybaert
+Chapter 21 Split?Case Arguments about Personal Identity (pages 86–87): Ludger Jansen
+Chapter 22 The Ship of Theseus (pages 88–89): Ludger Jansen
+Chapter 23 The Problem of Temporary Intrinsics (pages 90–92): Montserrat Bordes
+Chapter 24 A Modern Modal Argument for the Soul (pages 93–98): Rafal Urbaniak and Agnieszka Rostalska
+Chapter 25 Two Arguments for the Harmlessness of Death (pages 99–101): Steven Luper and Nicolas Bommarito
+Chapter 26 The Existence of Forms: Plato's Argument from the Possibility of Knowledge (pages 102–105): Jurgis (George) Brakas
+Chapter 27 Plato, Aristotle, and the Third Man Argument (pages 106–110): Jurgis (George) Brakas
+Chapter 28 Logical Monism (pages 111–114): Luis Estrada?Gonzalez
+Chapter 29 The Maximality Paradox (pages 115–118): Nicola Ciprotti
+Chapter 30 An Argument for Free Will (pages 119–120): Gerald Harrison
+Chapter 31 Frankfurt's Refutation of the Principle of Alternative Possibilities (pages 121–122): Gerald Harrison
+Chapter 32 Van Inwagen's Consequence Argument against Compatibilism (pages 123–124): Grant Sterling
+Chapter 33 Fatalism (pages 125–127): Fernando Migura and Agustin Arrieta
+Chapter 34 Sartre's Argument for Freedom (pages 128–130): Jeffrey Gordon
+Chapter 35 The Cogito Arguments of Descartes and Augustine (pages 131–136): Joyce Lazier and Brett Gaul
+Chapter 36 The Cartesian Dreaming Argument for External?World Skepticism (pages 137–141): Stephen Hetherington
+Chapter 37 The Transparency of Experience Argument (pages 142–145): Carlos M. Munoz?Suarez
+Chapter 38 The Regress Argument for Skepticism (pages 146–151): Scott Aikin
+Chapter 39 Moore's Anti?Skeptical Arguments (pages 152–153): Matthew Frise
+Chapter 40 The Bias Paradox (pages 154–155): Deborah Heikes
+Chapter 41 Gettier's Argument against the Traditional Account of Knowledge (pages 156–158): John M. DePoe
+Chapter 42 Putnam's Argument against Cultural Imperialism (pages 159–161): Maria Caamano
+Chapter 43 Davidson on the Very Idea of a Conceptual Scheme (pages 162–168): George Wrisley
+Chapter 44 Quine's Two Dogmas of Empiricism (pages 169–173): Robert Sinclair
+Chapter 45 Hume and the Problem of Induction (pages 174–179): James E. Taylor and Stefanie Rocknak
+Chapter 46 Argument by Analogy in Thales and Anaximenes (pages 180–182): Giannis Stamatellos
+Chapter 47 Quine's Epistemology Naturalized (pages 183–187): Robert Sinclair
+Chapter 48 Sellars and the Myth of the given (pages 188–192): Willem A. deVries
+Chapter 49 Sellars' “Rylean Myth” (pages 193–197): Willem A. deVries
+Chapter 50 Aristotle and the Argument to End all Arguments (pages 198–200): Toni Vogel Carey
+Chapter 51 Justice Brings Happiness in Plato's Republic (pages 201–207): Joshua I. Weinstein
+Chapter 52 Aristotle's Function Argument (pages 208–210): Sean McAleer
+Chapter 53 Aristotle's Argument that Goods are Irreducible (pages 211–213): Jurgis (George) Brakas
+Chapter 54 Aristotle's Argument for Perfectionism (pages 214–216): Eric J. Silverman
+Chapter 55 Categorical Imperative as the Source for Morality (pages 217–220): Joyce Lazier
+Chapter 56 Kant on why Autonomy Deserves Respect (pages 221–222): Mark Piper
+Chapter 57 Mill's Proof of Utilitarianism (pages 223–228): A. T. Fyfe
+Chapter 58 The Experience Machine Objection to Hedonism (pages 229–231): Dan Weijers
+Chapter 59 The Error Theory Argument (pages 232–236): Robert L. Muhlnickel
+Chapter 60 Moore's Open Question Argument (pages 237–239): Bruno Verbeek
+Chapter 61 Wolff's Argument for the Rejection of State Authority (pages 240–241): Ben Saunders
+Chapter 62 Nozick's Taxation is Forced Labor Argument (pages 242–243): Jason Waller
+Chapter 63 Charity is Obligatory (pages 244–246): Joakim Sandberg
+Chapter 64 The Repugnant Conclusion (pages 247–248): Joakim Sandberg
+Chapter 65 Taurek on Numbers don't Count (pages 249–250): Ben Saunders
+Chapter 66 Parfit's Leveling down Argument against Egalitarianism (pages 251–253): Ben Saunders
+Chapter 67 Nozick's Wilt Chamberlain Argument (pages 254–257): Fabian Wendt
+[Chapter 68 Liberal Feminism (pages 258–262): Julinna C. Oxley]((https://tquadrivium.github.io/DailyArguments/#/markdown/68))
+Chapter 69 Moral Status of Animals from Marginal Cases (pages 263–264): Julia Tanner
+Chapter 70 The Ethical Vegetarianism Argument (pages 265–268): Robert L. Muhlnickel
+Chapter 71 Thomson and the Famous Violinist (pages 269–272): Leslie Burkholder
+Chapter 72 Marquis and the Immorality of Abortion (pages 273–274): Leslie Burkholder
+Chapter 73 Tooley on Abortion and Infanticide (pages 275–276): Ben Saunders
+Chapter 74 Rachels on Euthanasia (pages 277–280): Leslie Burkholder
+Chapter 75 Leibniz' Argument for Innate Ideas (pages 281–289): Byron Kaldis
+Chapter 76 Descartes' Arguments for the Mind–Body Distinction (pages 290–296): Dale Jacquette
+Chapter 77 Princess Elisabeth and the Mind–Body Problem (pages 297–300): Jen McWeeny
+Chapter 78 Kripke's Argument for Mind–Body Property Dualism (pages 301–303): Dale Jacquette
+Chapter 79 The Argument from Mental Causation for Physicalism (pages 304–307): Amir Horowitz
+Chapter 80 Davidson's Argument for Anomalous Monism (pages 308–310): Amir Horowitz
+Chapter 81 Putnam's Multiple Realization Argument against Type?Physicalism (pages 311–313): Amir Horowitz
+Chapter 82 The Supervenience Argument against Non?Reductive Physicalism (pages 314–317): Andrew Russo
+Chapter 83 Ryle's Argument against Cartesian Internalism (pages 318–319): Agustin Arrieta and Fernando Migura
+Chapter 84 Jackson's Knowledge Argument (pages 320–323): Amir Horowitz
+Chapter 85 Nagel's “What is it like to be a Bat” Argument against Physicalism (pages 324–326): Amy Kind
+Chapter 86 Chalmer's Zombie Argument (pages 327–329): Amy Kind
+Chapter 87 The Argument from Revelation (pages 330–333): Carlos M. Munoz?Suarez
+Chapter 88 Searle and the Chinese Room Argument (pages 334–336): Leslie Burkholder
+Chapter 89 Sir Karl Popper's Demarcation Argument (pages 337–340): Liz Stillwaggon Swan
+Chapter 90 Kuhn's Incommensurability Arguments (pages 341–343): Liz Stillwaggon Swan and Michael Bruce
+Chapter 91 Putnam's no Miracles Argument (pages 344–345): Liz Stillwaggon Swan
+Chapter 92 Galileo's Falling Bodies (pages 346–347): Liz Stillwaggon Swan
+Chapter 93 Eliminative Materialism (pages 348–349): Charlotte Blease
+Chapter 94 Wittgenstein's Private Language Argument (pages 350–354): George Wrisley
+Chapter 95 Fodor's Argument for Linguistic Nativism (pages 355–358): Majid Amini
+Chapter 96 Fodor and the Impossibility of Learning (pages 359–361): Majid Amini
+Chapter 97 Quine on the Indeterminacy of Translation (pages 362–366): Robert Sinclair
+Chapter 98 Davidson's Argument for the Principle of Charity (pages 367–369): Maria Caamano
+Chapter 99 Frege's Argument for Platonism (pages 370–372): Ivan Kasa
+Chapter 100 Mathematical Platonism (pages 373–375): Nicolas Pain
+
+### 6.选用版本
+
+<center><img src="res/100.jpg" width="300" height= "400"></center>
+
+> 版次：2011年第1版
+
+
+
+### 7.编委会
 
 | 职责 | 名单 |
 | :---: | :---: |
 | **主编** | [@HaoZHAN](https://github.com/zhanhao93) |
-| **编委** | [@MaolinWANG](https://github.com/mlw67) [@leafy-lee](https://github.com/leafy-lee) [@Youngfish42](https://github.com/youngfish42) [@Sm1les](https://github.com/Sm1les) [@J.Hu](https://github.com/inlmouse) |
+| **编委** | @Su WU |
 
 
 
-## 关注我们
+### 8.加入我们
+
+（1）在下方链接填写表格加入
+
+https://sanyisishu.com/2020/09/22/%e3%80%8c%e6%af%8f%e6%97%a5%e5%93%b2%e8%ae%ba%ef%bc%88daily-arguments%ef%bc%89%e3%80%8d%e5%bc%80%e6%ba%90%e9%a1%b9%e7%9b%ae/
+
+（2）邮箱加入
+
+通过给 haozhan1993@gmail.com 发送邮件加入
+
+
+
+### 9.关注我们
+
 <div align=center>
-<p>扫描下方二维码，或关注公众号「Datawhale」，然后回复关键词“钥匙书”，即可加入“钥匙书读者交流群”</p>
-<img src="https://github.com/datawhalechina/key-book/raw/master/res/qr.jpeg" width="300" height= "300">
-<p>或者加入QQ群：704768061</p>
+<p>扫描下方二维码，或关注公众号「三艺四术」，然后回复关键词“每日哲论”，即可加入“每日哲论交流群”</p>
+<img src="res/qrcode.jpg" width="200" height= "200">
+<p>或者加入QQ群：1160995549</p>
 </div>
 
-## LICENSE
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
+### 10.LICENSE
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" /></a>
+
+本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
