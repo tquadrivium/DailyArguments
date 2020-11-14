@@ -17,10 +17,10 @@
   - Chapter 16 Berkeley's Master Argument for Idealism
   - Chapter 17 Kant's Refutation of Idealism
   - Chapter 18 The Master Argument of Diodorus Cronus
-  - Chapter 19 Lewis' Argument for Possible Worlds
+  - [Chapter 19 刘易斯对可能世界的论证 ](https://tquadrivium.github.io/DailyArguments/#/markdown/19.md)
   - Chapter 20 A Reductionist Account of Personal Identity
-  - Chapter 21 Split?Case Arguments about Personal Identity
-  - Chapter 22 The Ship of Theseus
+  - [Chapter 21 关于人格同一性的分裂事例的论证](https://tquadrivium.github.io/DailyArguments/#/markdown/21.md)
+  - [Chapter 22 忒修斯之船](https://tquadrivium.github.io/DailyArguments/#/markdown/22.md)
   - Chapter 23 The Problem of Temporary Intrinsics
   - Chapter 24 A Modern Modal Argument for the Soul
   - Chapter 25 Two Arguments for the Harmlessness of Death
@@ -49,7 +49,7 @@
   - Chapter 48 Sellars and the Myth of the given
   - Chapter 49 Sellars' “Rylean Myth”
   - Chapter 50 Aristotle and the Argument to End all Arguments 
-  - Chapter 51 Justice Brings Happiness in Plato's Republic
+  - [Chapter 51 柏拉图理想国：正义带来幸福](https://tquadrivium.github.io/DailyArguments/#/markdown/51.md)
   - Chapter 52 Aristotle's Function Argument
   - Chapter 53 Aristotle's Argument that Goods are Irreducible
   - Chapter 54 Aristotle's Argument for Perfectionism 
@@ -66,12 +66,12 @@
   - Chapter 65 Taurek on Numbers don't Count
   - Chapter 66 Parfit's Leveling down Argument against Egalitarianism
   - Chapter 67 Nozick's Wilt Chamberlain Argument
-  - [Chapter 68 Liberal Feminism](markdown/68.md)
-  - Chapter 69 Moral Status of Animals from Marginal Cases
+  - [Chapter 68 自由派女权主义论证](https://tquadrivium.github.io/DailyArguments/#/markdown/68.md)
+  - [Chapter 69 基于边缘案例的动物道德地位论证](https://tquadrivium.github.io/DailyArguments/#/markdown/69.md)
   - Chapter 70 The Ethical Vegetarianism Argument 
-  - Chapter 71 Thomson and the Famous Violinist
-  - Chapter 72 Marquis and the Immorality of Abortion
-  - Chapter 73 Tooley on Abortion and Infanticide
+  - [Chapter 71 汤姆森与著名小提琴家](https://tquadrivium.github.io/DailyArguments/#/markdown/71.md)
+  - [Chapter 72 马奎斯与堕胎的不正当性](https://tquadrivium.github.io/DailyArguments/#/markdown/72.md)
+  - [Chapter 73 托利论堕胎和杀婴](https://tquadrivium.github.io/DailyArguments/#/markdown/73.md)
   - Chapter 74 Rachels on Euthanasia
   - Chapter 75 Leibniz' Argument for Innate Ideas
   - Chapter 76 Descartes' Arguments for the Mind–Body Distinction
@@ -84,12 +84,12 @@
   - Chapter 83 Ryle's Argument against Cartesian Internalism
   - Chapter 84 Jackson's Knowledge Argument
   - Chapter 85 Nagel's “What is it like to be a Bat” Argument against Physicalism
-  - Chapter 86 Chalmer's Zombie Argument (pages 327–329): Amy Kind
-    Chapter 87 The Argument from Revelation
+  - [Chapter 86 查尔默斯的僵尸论证](https://tquadrivium.github.io/DailyArguments/#/markdown/73.md)
+  - Chapter 87 The Argument from Revelation
   - Chapter 88 Searle and the Chinese Room Argument
-  - Chapter 89 Sir Karl Popper's Demarcation Argument 
-  - Chapter 90 Kuhn's Incommensurability Arguments
-  - Chapter 91 Putnam's no Miracles Argument
+  - [Chapter 89 卡尔·波普尔的划界论证](https://tquadrivium.github.io/DailyArguments/#/markdown/89.md)
+  - [Chapter 90 库恩的不可通约性论证](https://tquadrivium.github.io/DailyArguments/#/markdown/90.md)
+  - [Chapter 91 普特南无奇迹论证](https://tquadrivium.github.io/DailyArguments/#/markdown/91.md)
   - Chapter 92 Galileo's Falling Bodies
   - Chapter 93 Eliminative Materialism
   - Chapter 94 Wittgenstein's Private Language Argument
