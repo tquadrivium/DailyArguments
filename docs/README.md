@@ -159,7 +159,7 @@ Chapter 33 Fatalism (pages 125–127): Fernando Migura and Agustin Arrieta
 
 
 
-Chapter 34 Sartre's Argument for Freedom (pages 128–130): Jeffrey Gordon
+[Chapter 34 Sartre's Argument for Freedom (pages 128–130): Jeffrey Gordon](https://tquadrivium.github.io/DailyArguments/#/markdown/34.md)
 
 
 
@@ -375,7 +375,7 @@ Chapter 87 The Argument from Revelation (pages 330–333): Carlos M. Munoz?Suare
 
 
 
-Chapter 88 Searle and the Chinese Room Argument (pages 334–336): Leslie Burkholder
+[Chapter 88 Searle and the Chinese Room Argument (pages 334–336): Leslie Burkholder](https://tquadrivium.github.io/DailyArguments/#/markdown/88.md)
 
 
 

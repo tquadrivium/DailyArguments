@@ -32,7 +32,7 @@
   - Chapter 31 Frankfurt's Refutation of the Principle of Alternative Possibilities 
   - Chapter 32 Van Inwagen's Consequence Argument against Compatibilism
   - Chapter 33 Fatalism 
-  - Chapter 34 Sartre's Argument for Freedom
+  - [Chapter 34 萨特关于自由的论证](https://tquadrivium.github.io/DailyArguments/#/markdown/34.md)
   - Chapter 35 The Cogito Arguments of Descartes and Augustine 
   - Chapter 36 The Cartesian Dreaming Argument for External?World Skepticism
   - Chapter 37 The Transparency of Experience Argument
@@ -86,7 +86,7 @@
   - Chapter 85 Nagel's “What is it like to be a Bat” Argument against Physicalism
   - [Chapter 86 查尔默斯的僵尸论证](https://tquadrivium.github.io/DailyArguments/#/markdown/73.md)
   - Chapter 87 The Argument from Revelation
-  - Chapter 88 Searle and the Chinese Room Argument
+  - [Chapter 88 塞尔与中文屋](https://tquadrivium.github.io/DailyArguments/#/markdown/88.md)
   - [Chapter 89 卡尔·波普尔的划界论证](https://tquadrivium.github.io/DailyArguments/#/markdown/89.md)
   - [Chapter 90 库恩的不可通约性论证](https://tquadrivium.github.io/DailyArguments/#/markdown/90.md)
   - [Chapter 91 普特南无奇迹论证](https://tquadrivium.github.io/DailyArguments/#/markdown/91.md)
