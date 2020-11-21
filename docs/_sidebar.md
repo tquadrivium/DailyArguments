@@ -90,8 +90,8 @@
   - [Chapter 89 卡尔·波普尔的划界论证](https://tquadrivium.github.io/DailyArguments/#/markdown/89.md)
   - [Chapter 90 库恩的不可通约性论证](https://tquadrivium.github.io/DailyArguments/#/markdown/90.md)
   - [Chapter 91 普特南无奇迹论证](https://tquadrivium.github.io/DailyArguments/#/markdown/91.md)
-  - Chapter 92 Galileo's Falling Bodies
-  - Chapter 93 Eliminative Materialism
+  - [Chapter 92 伽利略自由落体](https://tquadrivium.github.io/DailyArguments/#/markdown/92.md)
+  - [Chapter 93 取消物理主义](https://tquadrivium.github.io/DailyArguments/#/markdown/93.md)
   - Chapter 94 Wittgenstein's Private Language Argument
   - Chapter 95 Fodor's Argument for Linguistic Nativism
   - Chapter 96 Fodor and the Impossibility of Learning

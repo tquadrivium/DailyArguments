@@ -159,7 +159,7 @@ Chapter 33 Fatalism (pages 125–127): Fernando Migura and Agustin Arrieta
 
 
 
-[Chapter 34 Sartre's Argument for Freedom (pages 128–130): Jeffrey Gordon](https://tquadrivium.github.io/DailyArguments/#/markdown/34.md)
+[Chapter 34 Sartre's 关于自由的论证 (pages 128–130): Jeffrey Gordon](https://tquadrivium.github.io/DailyArguments/#/markdown/34.md)
 
 
 
@@ -375,7 +375,7 @@ Chapter 87 The Argument from Revelation (pages 330–333): Carlos M. Munoz?Suare
 
 
 
-[Chapter 88 Searle and the Chinese Room Argument (pages 334–336): Leslie Burkholder](https://tquadrivium.github.io/DailyArguments/#/markdown/88.md)
+[Chapter 88 塞尔的中文屋论证 (pages 334–336): Leslie Burkholder](https://tquadrivium.github.io/DailyArguments/#/markdown/88.md)
 
 
 
@@ -391,11 +391,11 @@ Chapter 87 The Argument from Revelation (pages 330–333): Carlos M. Munoz?Suare
 
 
 
-Chapter 92 Galileo's Falling Bodies (pages 346–347): Liz Stillwaggon Swan
+[Chapter 92伽利略的自由落体 (pages 346–347): Liz Stillwaggon Swan](https://tquadrivium.github.io/DailyArguments/#/markdown/92.md)
 
 
 
-Chapter 93 Eliminative Materialism (pages 348–349): Charlotte Blease
+[Chapter 93 取消物理主义 (pages 348–349): Charlotte Blease]((https://tquadrivium.github.io/DailyArguments/#/markdown/93.md))
 
 
 
