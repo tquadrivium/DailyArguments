@@ -99,7 +99,7 @@ Chapter 18 The Master Argument of Diodorus Cronus (pages 73–75): Ludger Jansen
 
 
 
-Chapter 19 Lewis' Argument for Possible Worlds (pages 76–78): David Vander Laan
+[Chapter 19 刘易斯对可能世界的论证 (pages 76–78): David Vander Laan](https://tquadrivium.github.io/DailyArguments/#/markdown/19.md)
 
 
 
@@ -107,11 +107,11 @@ Chapter 20 A Reductionist Account of Personal Identity (pages 79–85): Fauve Ly
 
 
 
-Chapter 21 Split?Case Arguments about Personal Identity (pages 86–87): Ludger Jansen
+[Chapter 21 关于人格同一性的分裂事例的论证 (pages 86–87): Ludger Jansen](https://tquadrivium.github.io/DailyArguments/#/markdown/21.md)
 
 
 
-Chapter 22 The Ship of Theseus (pages 88–89): Ludger Jansen
+[Chapter 22 忒修斯之船 (pages 88–89): Ludger Jansen](https://tquadrivium.github.io/DailyArguments/#/markdown/22.md)
 
 
 
@@ -159,7 +159,7 @@ Chapter 33 Fatalism (pages 125–127): Fernando Migura and Agustin Arrieta
 
 
 
-Chapter 34 Sartre's Argument for Freedom (pages 128–130): Jeffrey Gordon
+[Chapter 34 Sartre's 关于自由的论证 (pages 128–130): Jeffrey Gordon](https://tquadrivium.github.io/DailyArguments/#/markdown/34.md)
 
 
 
@@ -227,7 +227,7 @@ Chapter 50 Aristotle and the Argument to End all Arguments (pages 198–200): To
 
 
 
-Chapter 51 Justice Brings Happiness in Plato's Republic (pages 201–207): Joshua I. Weinstein
+[Chapter 51 柏拉图理想国：正义带来幸福 (pages 201–207): Joshua I. Weinstein](https://tquadrivium.github.io/DailyArguments/#/markdown/51.md)
 
 
 
@@ -295,11 +295,11 @@ Chapter 67 Nozick's Wilt Chamberlain Argument (pages 254–257): Fabian Wendt
 
 
 
-[Chapter 68 Liberal Feminism (pages 258–262): Julinna C. Oxley](https://tquadrivium.github.io/DailyArguments/#/markdown/68.md)
+[Chapter 68 自由派女权主义论证 (pages 258–262): Julinna C. Oxley](https://tquadrivium.github.io/DailyArguments/#/markdown/68.md)
 
 
 
-Chapter 69 Moral Status of Animals from Marginal Cases (pages 263–264): Julia Tanner
+[Chapter 69 基于边缘案例的动物道德地位论证 (pages 263–264): Julia Tanner](https://tquadrivium.github.io/DailyArguments/#/markdown/69.md)
 
 
 
@@ -307,15 +307,15 @@ Chapter 70 The Ethical Vegetarianism Argument (pages 265–268): Robert L. Muhln
 
 
 
-Chapter 71 Thomson and the Famous Violinist (pages 269–272): Leslie Burkholder
+[Chapter 71 汤姆森与著名小提琴家 (pages 269–272): Leslie Burkholder](https://tquadrivium.github.io/DailyArguments/#/markdown/71.md)
 
 
 
-Chapter 72 Marquis and the Immorality of Abortion (pages 273–274): Leslie Burkholder
+[Chapter 72 马奎斯与堕胎的不正当性 (pages 273–274): Leslie Burkholder](https://tquadrivium.github.io/DailyArguments/#/markdown/72.md)
 
 
 
-Chapter 73 Tooley on Abortion and Infanticide (pages 275–276): Ben Saunders
+[Chapter 73 托利论堕胎和杀婴 (pages 275–276): Ben Saunders](https://tquadrivium.github.io/DailyArguments/#/markdown/73.md)
 
 
 
@@ -367,7 +367,7 @@ Chapter 85 Nagel's “What is it like to be a Bat” Argument against Physicalis
 
 
 
-Chapter 86 Chalmer's Zombie Argument (pages 327–329): Amy Kind
+[Chapter 86 查尔默斯的僵尸论证 (pages 327–329): Amy Kind](https://tquadrivium.github.io/DailyArguments/#/markdown/73.md)
 
 
 
@@ -375,27 +375,27 @@ Chapter 87 The Argument from Revelation (pages 330–333): Carlos M. Munoz?Suare
 
 
 
-Chapter 88 Searle and the Chinese Room Argument (pages 334–336): Leslie Burkholder
+[Chapter 88 塞尔的中文屋论证 (pages 334–336): Leslie Burkholder](https://tquadrivium.github.io/DailyArguments/#/markdown/88.md)
 
 
 
-Chapter 89 Sir Karl Popper's Demarcation Argument (pages 337–340): Liz Stillwaggon Swan
+[Chapter 89 卡尔·波普尔的划界论证 (pages 337–340): Liz Stillwaggon Swan](https://tquadrivium.github.io/DailyArguments/#/markdown/89.md)
 
 
 
-Chapter 90 Kuhn's Incommensurability Arguments (pages 341–343): Liz Stillwaggon Swan and Michael Bruce
+[Chapter 90 库恩的不可通约性论证 (pages 341–343): Liz Stillwaggon Swan and Michael Bruce](https://tquadrivium.github.io/DailyArguments/#/markdown/90.md)
 
 
 
-Chapter 91 Putnam's no Miracles Argument (pages 344–345): Liz Stillwaggon Swan
+[Chapter 91 普特南无奇迹论证 (pages 344–345): Liz Stillwaggon Swan](https://tquadrivium.github.io/DailyArguments/#/markdown/91.md)
 
 
 
-Chapter 92 Galileo's Falling Bodies (pages 346–347): Liz Stillwaggon Swan
+[Chapter 92伽利略的自由落体 (pages 346–347): Liz Stillwaggon Swan](https://tquadrivium.github.io/DailyArguments/#/markdown/92.md)
 
 
 
-Chapter 93 Eliminative Materialism (pages 348–349): Charlotte Blease
+[Chapter 93 取消物理主义 (pages 348–349): Charlotte Blease]((https://tquadrivium.github.io/DailyArguments/#/markdown/93.md))
 
 
 
