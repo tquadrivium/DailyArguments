@@ -295,7 +295,7 @@ Chapter 67 Nozick's Wilt Chamberlain Argument (pages 254–257): Fabian Wendt
 
 
 
-[Chapter 68 自由派女权主义论证 (pages 258–262): Julinna C. Oxley](https://tquadrivium.github.io/DailyArguments/#/markdown/68.md)
+[Chapter 68 自由派女权主义论证 (pages 258–262): Julinna C. Oxley](/markdown/68.md)
 
 
 
