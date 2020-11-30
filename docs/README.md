@@ -395,7 +395,7 @@ Chapter 87 The Argument from Revelation (pages 330–333): Carlos M. Munoz?Suare
 
 
 
-[Chapter 93 取消物理主义 (pages 348–349): Charlotte Blease]((/markdown/93.md))
+[Chapter 93 取消物理主义 (pages 348–349): Charlotte Blease](/markdown/93.md)
 
 
 
