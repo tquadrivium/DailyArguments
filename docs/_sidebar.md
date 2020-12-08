@@ -84,7 +84,7 @@
   - Chapter 83 Ryle's Argument against Cartesian Internalism
   - Chapter 84 Jackson's Knowledge Argument
   - Chapter 85 Nagel's “What is it like to be a Bat” Argument against Physicalism
-  - [Chapter 86 查尔默斯的僵尸论证](https://tquadrivium.github.io/DailyArguments/#/markdown/73.md)
+  - [Chapter 86 查尔默斯的僵尸论证](https://tquadrivium.github.io/DailyArguments/#/markdown/86.md)
   - Chapter 87 The Argument from Revelation
   - [Chapter 88 塞尔与中文屋](https://tquadrivium.github.io/DailyArguments/#/markdown/88.md)
   - [Chapter 89 卡尔·波普尔的划界论证](https://tquadrivium.github.io/DailyArguments/#/markdown/89.md)
