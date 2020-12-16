@@ -83,7 +83,7 @@
   - Chapter 82 The Supervenience Argument against Non?Reductive Physicalism
   - Chapter 83 Ryle's Argument against Cartesian Internalism
   - Chapter 84 Jackson's Knowledge Argument
-  - Chapter 85 Nagel's “What is it like to be a Bat” Argument against Physicalism
+  - [Chapter 85 内格尔的“作为一只蝙蝠是什么体验”的反物理主义论证](https://tquadrivium.github.io/DailyArguments/#/markdown/85.md)
   - [Chapter 86 查尔默斯的僵尸论证](https://tquadrivium.github.io/DailyArguments/#/markdown/86.md)
   - Chapter 87 The Argument from Revelation
   - [Chapter 88 塞尔与中文屋](https://tquadrivium.github.io/DailyArguments/#/markdown/88.md)
@@ -92,7 +92,7 @@
   - [Chapter 91 普特南无奇迹论证](https://tquadrivium.github.io/DailyArguments/#/markdown/91.md)
   - [Chapter 92 伽利略自由落体](https://tquadrivium.github.io/DailyArguments/#/markdown/92.md)
   - [Chapter 93 取消物理主义](https://tquadrivium.github.io/DailyArguments/#/markdown/93.md)
-  - Chapter 94 Wittgenstein's Private Language Argument
+  - [Chapter 94 维特根斯坦的私人语言论证](/markdown/94.md)
   - Chapter 95 Fodor's Argument for Linguistic Nativism
   - Chapter 96 Fodor and the Impossibility of Learning
   - Chapter 97 Quine on the Indeterminacy of Translation

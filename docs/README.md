@@ -363,7 +363,7 @@ Chapter 84 Jackson's Knowledge Argument (pages 320–323): Amir Horowitz
 
 
 
-Chapter 85 Nagel's “What is it like to be a Bat” Argument against Physicalism (pages 324–326): Amy Kind
+[Chapter 85 内格尔的“作为一只蝙蝠是什么体验”的反物理主义论证 (pages 324–326): Amy Kind](/markdown/85.md)
 
 
 
@@ -399,7 +399,7 @@ Chapter 87 The Argument from Revelation (pages 330–333): Carlos M. Munoz?Suare
 
 
 
-Chapter 94 Wittgenstein's Private Language Argument (pages 350–354): George Wrisley
+[Chapter 94 维特根斯坦的私人语言论证 (pages 350–354): George Wrisley](/markdown/94.md)
 
 
 
