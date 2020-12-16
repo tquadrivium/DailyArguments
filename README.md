@@ -27,7 +27,7 @@ https://tquadrivium.github.io/DailyArguments/
 
 ### 5.目录
 
-Chapter 1 Aquinas' Five Ways (pages 7–17): Timothy J. Pawl
+[Chapter 1 阿奎那的五路证明 (pages 7–17): Timothy J. Pawl]((/docs/markdown/1.md))
 
 
 
